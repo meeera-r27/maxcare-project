@@ -1,7 +1,7 @@
 # MaxCare – Hospital Management System
 
 <p align="center">
-  <img src="screenshots/home.png" alt="MaxCare Home Page" width="100%">
+  <img src="home.png" alt="MaxCare Home Page" width="100%">
 </p>
 
 <h3 align="center">
