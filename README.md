@@ -98,12 +98,12 @@ MaxCare provides a dedicated diagnostic services section containing services suc
 
 ---
 
-# Application Screenshots
+# Some Application Screenshots
 
 ## Home Page
 
 <p align="center">
-  <img src="screenshots/home.png" alt="MaxCare Home Page" width="95%">
+  <img src="home.png" alt="MaxCare Home Page" width="95%">
 </p>
 
 The MaxCare landing page provides quick access to doctors, services, appointments and contact information while highlighting the platform's healthcare features.
@@ -113,7 +113,7 @@ The MaxCare landing page provides quick access to doctors, services, appointment
 ## Medical Team
 
 <p align="center">
-  <img src="screenshots/doctors.png" alt="MaxCare Medical Team" width="95%">
+  <img src="doctor.png" alt="MaxCare Medical Team" width="95%">
 </p>
 
 The medical team section allows patients to explore verified specialists along with their specialization, experience and appointment availability.
@@ -122,9 +122,6 @@ The medical team section allows patients to explore verified specialists along w
 
 ## Doctor Profile
 
-<p align="center">
-  <img src="screenshots/doctor-profile.png" alt="Doctor Profile" width="95%">
-</p>
 
 Each doctor has a dedicated profile containing:
 
@@ -142,9 +139,6 @@ Each doctor has a dedicated profile containing:
 
 ## Appointment Booking
 
-<p align="center">
-  <img src="screenshots/appointment.png" alt="Appointment Booking" width="95%">
-</p>
 
 The appointment system allows patients to select a date, check available time slots and enter their personal details before confirming an appointment.
 
@@ -158,7 +152,7 @@ Patients can choose between:
 ## Diagnostic Services
 
 <p align="center">
-  <img src="screenshots/services.png" alt="Diagnostic Services" width="95%">
+  <img src="diagnostic.png" alt="Diagnostic Services" width="95%">
 </p>
 
 The diagnostic services section provides an organized interface for browsing and booking healthcare tests and medical services.
@@ -168,7 +162,7 @@ The diagnostic services section provides an organized interface for browsing and
 ## Online Payment
 
 <p align="center">
-  <img src="screenshots/payment.png" alt="Stripe Payment" width="90%">
+  <img src="payment.png" alt="Stripe Payment" width="90%">
 </p>
 
 MaxCare integrates **Stripe Checkout** for secure online appointment payments.
@@ -186,9 +180,7 @@ The payment workflow includes:
 
 # Doctor Dashboard
 
-<p align="center">
-  <img src="screenshots/doctor-dashboard.png" alt="Doctor Dashboard" width="95%">
-</p>
+
 
 The doctor dashboard provides an overview of appointment activity and patient information.
 
@@ -214,9 +206,6 @@ Doctors can also view appointment details including:
 
 # Admin Dashboard
 
-<p align="center">
-  <img src="screenshots/admin-dashboard.png" alt="Admin Dashboard" width="95%">
-</p>
 
 The admin dashboard provides centralized management of the healthcare platform.
 
@@ -576,13 +565,7 @@ Dashboard development
 Responsive UI design
 API integration
 Git and GitHub workflow
-Screenshots
-Patient Portal	Doctor Profile
-<img src="screenshots/home.png" width="450">	<img src="screenshots/doctor-profile.png" width="450">
-Appointment Booking	Diagnostic Services
-<img src="screenshots/appointment.png" width="450">	<img src="screenshots/services.png" width="450">
-Doctor Dashboard	Admin Dashboard
-<img src="screenshots/doctor-dashboard.png" width="450">	<img src="screenshots/admin-dashboard.png" width="450">
+
 Author
 Meera R
 
